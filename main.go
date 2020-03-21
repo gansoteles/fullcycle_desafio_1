@@ -1,6 +1,7 @@
+// teste
 package main
 
-import(
+import (
 	"fmt"
 )
 
