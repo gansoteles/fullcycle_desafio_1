@@ -1,4 +1,3 @@
-//teste
 package main
 
 import (
